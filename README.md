@@ -1,6 +1,6 @@
 # Timing_traps
 
-## Video instructions
+## Video instructions (links to YouTube)
 
 
 Timer setup
