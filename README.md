@@ -15,26 +15,9 @@ A trap comprises three modules:
 
 Currently, there are two types of trap, which are differentiated by their bait module
 
-## Timer module
 
-Video instruction for timer setup
-https://youtu.be/lfqgymy4Xxs
-
-
-## Bait module
-
-### Sugar trap
-The bait module on the sugar trap comprises a funnel, a syringe and a linear actuator. 
-
-Video instruction for sugar trap setup
-https://youtu.be/S6Ju-err3f0
-
-
-### Light trap
-The bait module on the sugar trap comprises a LED light bulb.
-
-Video instruction for light trap setup 
-https://youtu.be/rHCy9TALwIY
+Video instruction for setting up the timing traps  
+https://youtu.be/NCilmELqgZU
 
 
 ## Net module 
