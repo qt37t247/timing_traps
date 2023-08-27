@@ -20,10 +20,6 @@ Video instruction for setting up the timing traps
 https://youtu.be/NCilmELqgZU
 
 
-## Net module 
-
-
-
 
 
 
